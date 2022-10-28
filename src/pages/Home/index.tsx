@@ -65,6 +65,8 @@ export function Home() {
     reset()
   }
 
+  // novo texto
+
   const activeCycle = cycles.find((cycle) => cycle.id === activeCycleId)
 
   console.log(activeCycle)
