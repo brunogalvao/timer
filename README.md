@@ -1,3 +1,3 @@
 # Timer
 
-Projeto Controle de Tarefas. -teste
+Projeto Controle de Tarefas.
